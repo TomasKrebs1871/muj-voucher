@@ -1,8 +1,17 @@
-# PRD Vibe Kit
+# Voucher Analytics — Lipoelastic
 
-Předpřipravený kit s AI agenty pro **Product Vibe Coding** workshop.
+Dashboard pro analýzu prodeje voucherů Lipoelastic za Q1 2026. Zobrazuje výkon B2B a B2C segmentu, top vouchery podle tržeb a segmentaci podle kategorie produktu.
 
-Žádný kód, žádná appka — jen agenti a pravidla. Všechno si vygeneruješ sám z vlastního PRD.
+## Stack
+Next.js + Supabase + Tailwind + Vercel
+
+## Lokální vývoj
+```bash
+npm install
+npm run dev
+```
+
+---
 
 ## Quick Start
 
